@@ -1,1 +1,2 @@
-print ("Test fr GIT")
+print ("Test for GIT")
+print ("Test for second branch")
